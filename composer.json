@@ -14,9 +14,7 @@
   ],
   "description": "Infinity cache for Laravel Eloquent models and queries",
   "require": {
-    "illuminate/database": "^5.1",
-    "illuminate/cache": "^5.1",
-    "illuminate/support": "^5.1"
+    "laravel/framework": "6.*"
   },
   "require-dev": {
     "phpunit/phpunit": "^4.8",
